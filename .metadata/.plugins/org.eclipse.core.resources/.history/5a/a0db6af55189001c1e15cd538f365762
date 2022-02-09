@@ -1,0 +1,7 @@
+package intro8;
+
+public class HelloWorld8 {
+	public static void main(String[] args) {
+		System.out.println("Bipal Tuladhar");
+	}
+}

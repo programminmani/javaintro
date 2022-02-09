@@ -1,0 +1,11 @@
+package intro;
+
+public class HelloWorld {
+	public static void main(String[] args) {
+		String str = "Hello World!";
+		int age = 29;
+		System.out.println(str+" "+age);
+	}
+}
+
+
