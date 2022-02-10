@@ -26,5 +26,6 @@ public class ArraysInJava {
 		for(i=0; i<5; i++ ) {
 			b[i] = sc.nextInt();
 		}
+		
 	}
 }
