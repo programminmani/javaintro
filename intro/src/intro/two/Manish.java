@@ -6,7 +6,7 @@ public class Manish {
 		// TODO Auto-generated method stub
 		System.out.println("hello world");
 		System.out.println("manis maharjan");
-		System.out.println("maharjan");
+		System.out.println("maharan");
 	}
 
 }
